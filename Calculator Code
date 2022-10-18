@@ -100,10 +100,6 @@ namespace CalCuLaToR
 
         }
 
-        private void msg_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("this is ist msg", "message", MessageBoxButtons.AbortRetryIgnore);
-        }
 
         private void button6_Click(object sender, EventArgs e)
         {
